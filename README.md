@@ -9,10 +9,13 @@ By default it compares against the number, attempting to roll below it, e.g. wit
 ![image](https://github.com/Deyzeria/deyzerias-luck-roll/assets/49957461/6975b284-f8ef-47b5-a22b-43a63b1fd180)
 
 In the default character sheets, only allows to change the value when editing is enabled.
+
 ![image](https://github.com/Deyzeria/deyzerias-luck-roll/assets/49957461/4391b77b-8845-413c-987e-06db0cf2eafe)
 
 In Tidy Sheets, value can be changed any time.
+
 ![image](https://github.com/Deyzeria/deyzerias-luck-roll/assets/49957461/bd4306b6-0491-4b8a-af5c-b5e2eda16397)
 
 Chat Results
+
 ![image](https://github.com/Deyzeria/deyzerias-luck-roll/assets/49957461/0dc51801-c587-4372-8ddc-8919b745e3b8)
