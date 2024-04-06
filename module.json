@@ -1,0 +1,29 @@
+{
+  "id": "deyzerias-luck-roll",
+  "title": "Deyzeria's Luck Rolls",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Deyzeria",
+      "discord": "@deyzeria",
+      "flags": {}
+    }
+  ],
+  "esmodules": "/luckroll.mjs",
+  "manifest": "https://raw.githubusercontent.com/Deyzeria/deyzerias-luck-roll/master/module.json",
+  "url": "https://github.com/Deyzeria/deyzerias-luck-roll",
+  "download": "https://github.com/Deyzeria/deyzerias-luck-roll/archive/refs/heads/main.zip"
+}
